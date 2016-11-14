@@ -122,8 +122,8 @@ a:hover {
 }
 .top-header {
     padding: 1em 0em;
-    background:#0816b3;
-    border-top:5px solid #0816b3;
+    background:#0855ab;
+    border-top:5px solid #0855ab;
 }
 .header-address h6 {
     font-size:0.9em;
@@ -159,7 +159,7 @@ span.email{
     color: #fff;
 }
 .header-address ul li a:hover {
-    color:#FDBD10;
+    color:#0855ab;
 }
 .top-social {
     padding: 0px;
@@ -184,12 +184,12 @@ nav a:focus {
 }
 /* Effect 16: fall down */
 .cl-effect-16 a {
-	color: #6f8686;
+	color: #0855ab;
 	text-shadow: 0 0 1px rgba(111,134,134,0.3);
 }
 
 .cl-effect-16 a::before {
-	color: #CE254B;
+	color: #0855ab;
 	content: attr(data-hover);
 	position: absolute;
 	opacity: 0;
@@ -262,10 +262,10 @@ div#navbar {
     line-height: 1.5em;
 }
 .navbar-inverse .navbar-nav > li > a.active{
-	color:#CE254B;
+	color:#0855ab;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color:#CE254B;
+    color:#0855ab;
     background-color: transparent;
 }
 /*--banner start here--*/
@@ -324,8 +324,8 @@ div#navbar {
     margin-top: 1em;
 }
 .banner-main a:hover {
-   border: 2px solid #F7B400;
-   color:#F7B400;
+   border: 2px solid #0855ab;
+   color:#0855ab;
 }
 span.ban-line {
     width:375px;
@@ -336,9 +336,9 @@ span.ban-line {
 .welcome {
     padding: 5em 0em;
 }
-.welcome-top h3 {
+.welcome-top h3, h5 {
     font-size: 3em;
-    color:#CE254B;
+    color:#0855ab;
     font-family: 'Ubuntu Condensed', sans-serif;
     text-align: center;
 }
@@ -379,7 +379,7 @@ span.ban-line {
     background:#03C0CA;
 }
 .wel-4 {
-    background:#00a388;
+    background:#0a6aa7;
 }
 .welcome-w3agile span{
     width: 60px;
@@ -463,7 +463,7 @@ span.hovicon:before {
  .hovicon.effect-4 {
     width: 80px;
     height: 80px;
-    box-shadow: 0 0 0 3px #F7B400;
+    box-shadow: 0 0 0 3px #0855ab;
 }
 .hovicon.effect-4.small {
     width:45px;
@@ -537,14 +537,14 @@ span.hovicon:before {
 }
 .we-choose-rit h3 {
     font-size: 2.5em;
-    color: #F7B400;
+    color: #0855ab;
     font-family: 'Ubuntu Condensed', sans-serif;
     text-align: center;
     margin-bottom: 0.5em;
 }
 .news-left h3 {
     font-size: 2.5em;
-    color: #CE254B;
+    color: #0855ab;
     font-family: 'Ubuntu Condensed', sans-serif;
     text-align: center;
     margin-bottom: 0.5em;
@@ -776,7 +776,7 @@ div#a4 p {
 }
 .people-main h3 {
     font-size: 2.5em;
-    color:#F7B400;
+    color:#0855ab;
     text-align: center;
     margin-bottom: 0.4em;
     padding-top:2.5em;
@@ -797,7 +797,7 @@ div#a4 p {
 }
 .skills-top h4 {
     font-size: 3em;
-    color: #CE254B;
+    color: #0855ab;
     font-family: 'Ubuntu Condensed', sans-serif;
     margin-bottom: 0.1em;
 }
@@ -830,7 +830,7 @@ div#a4 p {
   width: 0%;
   height: 5px;
   border-radius: 0px;
-  background:#F7B400;
+  background:#0855ab;
   margin-bottom: 15px;
   -webkit-transition: width 1s;
           transition: width 1s;
@@ -927,7 +927,7 @@ li.resp-tab-item img {
     border-radius: 41px;
 }
 li.resp-tab-item.resp-tab-active {
-    border:2px solid #CE254B;
+    border:2px solid #0855ab;
     opacity: 1;
 }
 .resp-tab-item img { 
@@ -981,7 +981,7 @@ h2.resp-accordion {
     position: relative;
 }
 .view.view-first h5 {
-    color:#F7B400;
+    color:#0855ab;
     font-size:1.5em;
     display: inline-block;
     margin:0.5em 0em;
@@ -1000,7 +1000,7 @@ h2.resp-accordion {
 /*--news letters start here--*/
 .newsletter {
     padding: 5em 0em;
-    background: #CE254B;
+    background: #0855ab;
     text-align:center;
 }
 .newsletter-wthree h3 {
@@ -1017,7 +1017,7 @@ h2.resp-accordion {
 }
 .newsletter-wthree input[type="text"] {
     font-size: 1em;
-    color: #CE254B;
+    color: #0855ab;
     padding: 0.5em 0.8em;
     width: 30%;
     outline: none;
@@ -1025,7 +1025,7 @@ h2.resp-accordion {
 }
 .newsletter-wthree input[type="submit"] {
     font-size: 1em;
-    background:#F7B400;
+    background:#0855ab;
     color:#fff;
     padding: 0.56em 1em;
     border: none;
@@ -1041,7 +1041,7 @@ h2.resp-accordion {
   -o-transition: 0.5s all;
 }
 .newsletter-wthree ::-webkit-input-placeholder{
-   color:#CE254B !important;
+   color:#0855ab !important;
 }
 /*--news letters end here--*/
 /*--copy rights starts here--*/
@@ -1094,7 +1094,7 @@ ul.ftr-icons li a.g:hover{
     font-size: 1em;
 }
 .copy-rights-main p a:hover{
-    color: #CE254B;
+    color: #0855ab;
 }
 /*--copy righs end here--*/
 /*--about start here--*/
@@ -1107,7 +1107,7 @@ ul.ftr-icons li a.g:hover{
 }
 .about-left h4 {
     font-size: 1.7em;
-    color: #CE254B;
+    color: #0855ab;
     line-height: 1.8em;
     margin-bottom: 0.3em;
     font-family: 'Ubuntu Condensed', sans-serif;
@@ -1119,7 +1119,7 @@ ul.ftr-icons li a.g:hover{
     line-height: 1.9em;
 }
 .about-top h2 {
-    color:#F7B400;
+    color:#0855ab;
     font-size: 3em;
     font-family: 'Ubuntu Condensed', sans-serif;
 }
@@ -1130,7 +1130,7 @@ ul.ftr-icons li a.g:hover{
 .history-top h3 {
   font-size: 3em;
   font-weight: 500;
-  color:#CE254B;
+  color:#0855ab;
   font-family: 'Ubuntu Condensed', sans-serif;
   padding: 0em 0em 0.5em 0.5em;
   margin: 0em 0em 0em 0em;
@@ -1139,7 +1139,7 @@ ul.ftr-icons li a.g:hover{
 .history-grids h4 {
   font-size:1.6em;
   font-weight: 400;
-  color:#F7B400;
+  color:#0855ab;
   margin: 0em 0em 0.2em 0em;
   font-family: 'Ubuntu Condensed', sans-serif;
 }
@@ -1154,7 +1154,7 @@ ul.ftr-icons li a.g:hover{
 
 /*--team start here--*/
 .team-head h3 {
-    color:#F7B400;
+    color:#0855ab;
     font-size: 3em;
     padding-bottom: 1em;
     text-align: center;
@@ -1243,7 +1243,7 @@ ul.team-icons li a.g {
     padding: 5em 0em;
 }
 .services-top h2 {
-    color: #F7B400;
+    color: #0855ab;
     font-size: 3em;
     font-family: 'Ubuntu Condensed', sans-serif;
 }
@@ -1315,7 +1315,7 @@ span.wel-icon10.hovicon.effect-4.sub-b {
 }
 .other-top  h3 {
   font-size: 2.5em;
-  color:#CE254B;
+  color:#0855ab;
   margin: 0em 0em 0.2em 0em;
  font-family: 'Ubuntu Condensed', sans-serif;
 }
@@ -1348,7 +1348,7 @@ span.other-num {
 /*--services end here--*/
 /*--short codes--*/
 h3.typo1 {
-    color: #F7B400;
+    color: #0855ab;
     font-size: 3em;
     font-family: 'Ubuntu Condensed', sans-serif;
     text-align: center;
@@ -1398,7 +1398,7 @@ ul.nav.nav-pills {
 }
 .gallery-top h2 {
     font-size: 3em;
-    color: #F7B400;
+    color: #0855ab;
     font-family: 'Ubuntu Condensed', sans-serif;
 }
 .gallery-top p{
@@ -1534,12 +1534,12 @@ ul.nav.nav-pills {
 }
 .contact-top h2 {
     font-size: 3em;
-    color:#F7B400;
+    color: #0855ab;
     font-family: 'Ubuntu Condensed', sans-serif;
 }
 .contact-left h3 {
     font-size: 2.3em;
-    color:#CE254B;
+    color:#0855ab;
     margin-bottom: 0.3em;
     font-family: 'Ubuntu Condensed', sans-serif;
 }
@@ -1579,7 +1579,7 @@ ul.nav.nav-pills {
 .contact-right input[type="submit"] {
     font-size: 1em;
     color: #fff;
-    background:#CE254B;
+    background:#0855ab;
     border: none;
     outline: none;
     padding: 0.5em 2em;
@@ -1587,7 +1587,7 @@ ul.nav.nav-pills {
     border-radius: 2px;
 }
 .contact-right input[type="submit"]:hover{
-	 background:#F7B400;
+	 background:#;
 	 transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -1611,7 +1611,7 @@ ul.face li a {
 }
 ul.face li a:hover {
     font-size: 1em;
-    color:#CE254B;
+    color:#0855ab;
 }
 .map {
     padding-top: 4em;
@@ -1904,18 +1904,18 @@ span.ban-line {
     padding: 8px 7px;
 }
 .navbar-inverse .navbar-toggle {
-    background: #F7B400;
+    background: #0855ab;
     border: none;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-    background: #F5AF33 !important;
+    background: #0855ab !important;
 }
 .navbar-nav {
     float: none !important;
 }
 div#navbar {
     width: 100%;
-    background:#f7b400;
+    background:#0855ab;
     margin-top: 0.5em;
 }
 .navbar-collapse {
@@ -2784,4 +2784,7 @@ span.label {
 td.add-check a {
     width: 86px;
 }
+}
+.img150 {
+float: left;
 }

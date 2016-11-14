@@ -188,6 +188,8 @@
     <Content Include="Content\images\ic7.png" />
     <Content Include="Content\images\ic8.png" />
     <Content Include="Content\images\ic9.png" />
+    <Content Include="Content\images\kredit1.jpg" />
+    <Content Include="Content\images\logodb.jpg" />
     <Content Include="Content\images\minus.png" />
     <Content Include="Content\images\next.png" />
     <Content Include="Content\images\ph.png" />
